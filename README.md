@@ -12,7 +12,7 @@
 
 <!-- Adding an image (replace URL with your image URL) -->
 
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, AI-Tools and Working on Mini Projects**
+- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, AI-Tools**
 
 - 💬 Ask me about **Web Development, Machine Learning Algorithms or Innovative project management**
 
