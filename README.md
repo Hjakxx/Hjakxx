@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Jakati</h1>
 <h3 align="center">I'm a passionate CS-AI student from India</h3>
 
+
+
+![29a8376d76e64b4e891a658a08cdda1a_gaming_setup_gif___Yahoo_India_Image_Search_results](https://github.com/user-attachments/assets/afdea90b-4157-4914-8665-85365c7408c8)
+
+
+
+
+
+
 <!-- Adding an image (replace URL with your image URL) -->
 
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, AI-Tools and Working on Mini Projects**
