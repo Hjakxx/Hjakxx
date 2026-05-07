@@ -12,11 +12,9 @@
 
 <!-- Adding an image (replace URL with your image URL) -->
 
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, AI-Tools**
+- 🌱 I’m currently learning **Data Structures and Algorithms, MLOps and AI-Tools**
 
-- 💬 Ask me about **Web Development, Machine Learning Algorithms or Innovative project management**
-
-- ⚡ Fun fact **I enjoy creating DIY Projects and turning simple ideas into impactful prototypes**
+- 💬 Ask me about **Machine Learning Algorithms or Innovative project management**
 
 -  📫 How to reach me **harshitrjakati@gmail.com**
 
