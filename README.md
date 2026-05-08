@@ -3,8 +3,13 @@
 
 
 
-![Uploading meme-fire_Meme_Fire_GIF___Meme_Fire_On_fire___Discover___Share_GIFs.gif…]()
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/59b770ea-faa5-406e-8fd9-c9c529dd4652"
+    alt="fire gif"
+    width="400"
+  />
+</p>
 
 
 
