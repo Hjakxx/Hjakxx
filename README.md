@@ -12,11 +12,11 @@
 
 <!-- Adding an image (replace URL with your image URL) -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, MLOps and AI-Tools**
+- I’m currently learning **Data Structures and Algorithms, MLOps and AI-Tools**
 
-- 💬 Ask me about **Machine Learning Algorithms or Innovative project management**
+- Ask me about **Machine Learning Algorithms or Innovative project management**
 
--  📫 How to reach me **harshitrjakati@gmail.com**
+- How to reach me **harshitrjakati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
