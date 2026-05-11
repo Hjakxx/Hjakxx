@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshit Jakati</h1>
-<h3 align="center">I'm a CS-AI student from India</h3>
+<h1 align="center">Yo, I'm Harshit Jakati</h1>
+<h3 align="center">I'm a CS-AI Undergrad</h3>
 
 
 
