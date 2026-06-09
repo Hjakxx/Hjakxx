@@ -3,13 +3,7 @@
 
 
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/59b770ea-faa5-406e-8fd9-c9c529dd4652"
-    alt="fire gif"
-    width="400"
-  />
-</p>
+
 
 
 
