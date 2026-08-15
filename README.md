@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Jakati&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Jakati&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%26+ML+Engineer;NLP+%7C+LLMs+%7C+Deep+Learning;Research+Published+%40+ICCIDC+2026;Building+AI+by+day+:+Gaming+by+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=AI/ML+Engineer;NLP+%7C+LLMs+%7C+Deep+Learning;Research+Published+%40+ICCIDC+2026;Building+AI+by+day+:+Gaming+by+night)](https://git.io/typing-svg)
 
 <br/>
 
