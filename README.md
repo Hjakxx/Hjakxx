@@ -10,10 +10,14 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_225813708_98b745f2_7d22_48cf_9150_083f1b00d6c9_gif__1920_1080_](https://github.com/user-attachments/assets/4ea068f0-10eb-4a80-babf-fd45f55946a5)
 
-## 🧠 About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
+
+</div>
 
 ```python
-adarsh = {
+jakxx = {
     "role"       : "Artificial Intelligence & Machine Learning Engineer",
     "education"  : "B.E. Computer Science (AI) @ KLE Technological University '27",
     "research"   : "Published @ ICCIDC 2026 —  Exploring Patterns of Popularity: A Detailed Analysis of Games on the STEAM Platform",
@@ -25,7 +29,11 @@ adarsh = {
 
 ---
 
-## 🚀 What I'm Up To
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=WHAT+I'M+UP+TO" />
+
+</div>
 
 - Building **interactive AI applications** powered by **LLMs**, **RAG**, and modern ML workflows
 - Exploring **LLM fine-tuning**, and **MLOps** for production-ready systems
@@ -34,7 +42,11 @@ adarsh = {
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=TECH+STACK" />
+
+</div>
 
 **Languages**
 
@@ -64,7 +76,11 @@ adarsh = {
 ---
 
 
-## 📊GitHub Analytics
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=GITHUB+STATS" />
+
+</div>
 
 <div align="center">
 
@@ -79,7 +95,11 @@ adarsh = {
 
 ---
 
-## Coding Profiles
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=CODING+PROFILE" />
+
+</div>
 
 <div align="center">
 
@@ -99,7 +119,11 @@ adarsh = {
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=LET'S+CONNECT" />
+
+</div>
 
 <div align="center">
 
