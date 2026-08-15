@@ -1,105 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:2563EB&text=Hi%20There,%20I'm%20Hjakxx&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Jakati&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%26+ML+Engineer;NLP+%7C+LLMs+%7C+Deep+Learning;Research+Published+%40+ICCIDC+2026;Building+AI+by+day+:+Gaming+by+night)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+ML+Developer;Building+Intelligent+Systems+for+Real-World+Impact;Deep+Learning+%7C+MLOps+%7C+Computer+Vision;Open+Source+Contributor+%7C+Problem+Solver;Always+Learning.+Always+Building." />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/B.E.-Computer%20Science-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20ML-Engineer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Deep%20Learning-Researcher-2563EB?style=for-the-badge)
-![](https://img.shields.io/badge/MLOps-Practitioner-5B21B6?style=for-the-badge)
-
-<br/>
-
-![](https://img.shields.io/badge/Location-Karnataka%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/harshit-jakati-744232320/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshitrjakati@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Hjakxx">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Hjakxx&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Hjakxx?style=for-the-badge&color=2563EB&labelColor=111827)
-![](https://img.shields.io/github/stars/Hjakxx?style=for-the-badge&color=7C3AED&labelColor=111827)
-
 </div>
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_225813708_98b745f2_7d22_48cf_9150_083f1b00d6c9_gif__1920_1080_](https://github.com/user-attachments/assets/4ea068f0-10eb-4a80-babf-fd45f55946a5)
+
+## 🧠 About Me
+
+```python
+adarsh = {
+    "role"       : "Artificial Intelligence & Machine Learning Engineer",
+    "education"  : "B.E. Computer Science (AI) @ KLE Technological University '27",
+    "research"   : "Published @ ICCIDC 2026 —  Exploring Patterns of Popularity: A Detailed Analysis of Games on the STEAM Platform",
+    "focus"      : ["Generative AI", "LLMs & RAG", "Agentic AI", "Deep Learning", "Computer Vision"],
+    "stack"      : ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"],
+    "contact"    : "harshitrjakati@gmail.com"
+}
+```
 
 ---
 
-# About Me
+## 🚀 What I'm Up To
 
-I am an AI Engineer passionate about building intelligent systems that solve real-world problems through Machine Learning, Deep Learning, Computer Vision, MLOps, and Embedded AI. I enjoy working across the entire lifecycle of AI products—from data collection and model development to deployment, monitoring, optimization, and automation.
-
-### Open To
-
-- AI Engineering Roles
-- Machine Learning Internships
-- Software Engineering Opportunities
-- Open Source Collaboration
-- Research Projects
-- Hackathons
+- Building **interactive AI applications** powered by **LLMs**, **RAG**, and modern ML workflows
+- Exploring **LLM fine-tuning**, and **MLOps** for production-ready systems
+- Applying machine learning to healthcare, NLP, and real-world data
+- Open to **Data Science**, **ML Engineering**, and **AI Research** opportunities
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+**ML / AI**
 
-<br/><br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## AI / ML
+**Tools & Databases**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br/><br/>
-
-## Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
-
-</div>
-
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Fish1112/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/harshitrzc6n">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/02fe23bci0251">
-<img src="https://img.shields.io/badge/HackerRank-Certifications-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# GitHub Analytics
+
+## 📊GitHub Analytics
 
 <div align="center">
 
@@ -112,38 +77,56 @@ I am an AI Engineer passionate about building intelligent systems that solve rea
 </div>
 
 
-# Connect
+---
+
+## Coding Profiles
 
 <div align="center">
 
-<a href="mailto:harshitrjakati@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://leetcode.com/u/Fish1112/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harshit-jakati-744232320/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/harshitrzc6n">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Hjakxx">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/741672490409000981">
-<img src="https://img.shields.io/badge/Discord-Community-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-</a>
-
-<a href="https://www.reddit.com/user/oRGANIc_Chutiya/">
-<img src="https://img.shields.io/badge/Reddit-Community-5B21B6?style=for-the-badge&logo=reddit&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/Hjakxx">
+<img src="https://img.shields.io/badge/HackerRank-Certifications-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
+*Always open to new opportunities, interesting projects, and meaningful work — always free for a good gaming session*
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:2563EB"/>
 
+<a href="mailto:harshitrjakati@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshit-jakati-744232320/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://discord.com/users/741672490409000981">
+<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+
+<a href="https://www.reddit.com/user/oRGANIc_Chutiya/">
+<img src="https://img.shields.io/badge/Reddit-5B21B6?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
