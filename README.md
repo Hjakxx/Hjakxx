@@ -8,7 +8,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
+
 
 </div>
 
