@@ -54,6 +54,7 @@ jakxx = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-4479A1?style=for-the-badge&logo=latex&logoColor=white)
 
 **ML / AI**
 
@@ -113,6 +114,10 @@ jakxx = {
 
 <a href="https://www.hackerrank.com/profile/Hjakxx">
 <img src="https://img.shields.io/badge/HackerRank-Certifications-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/rizzler_420">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
