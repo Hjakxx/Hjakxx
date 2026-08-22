@@ -6,11 +6,7 @@
 
 <br/>
 
-</div>
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_225813708_98b745f2_7d22_48cf_9150_083f1b00d6c9_gif__1920_1080_](https://github.com/user-attachments/assets/4ea068f0-10eb-4a80-babf-fd45f55946a5)
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
 
