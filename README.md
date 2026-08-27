@@ -112,8 +112,16 @@ jakxx = {
 <img src="https://img.shields.io/badge/HackerRank-Certifications-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/rizzler_420">
+<!-- <a href="https://codeforces.com/profile/rizzler_420">
   <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a> -->
+
+<a href="https://www.codechef.com/users/rizzler_420">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+</a>
+
+<a href="https://www.deep-ml.com/profile/kVvL476SsbW71mMJXkQp7K4AhUr1">
+  <img src="https://img.shields.io/badge/DeepML-Profile-1F8ACB?style=for-the-badge&logo=python&logoColor=white" alt="DeepML Profile"/>
 </a>
 
 </div>
