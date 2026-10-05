@@ -6,38 +6,6 @@
 
 <br/>
 
-
-
-
-
-</div>
-
-```python
-jakxx = {
-    "role"       : "Artificial Intelligence & Machine Learning Engineer",
-    "education"  : "B.E. Computer Science (AI) @ KLE Technological University '27",
-    "research"   : "Published @ ICCIDC 2026 —  Exploring Patterns of Popularity: A Detailed Analysis of Games on the STEAM Platform",
-    "focus"      : ["Generative AI", "LLMs & RAG", "Agentic AI", "Deep Learning", "Computer Vision"],
-    "stack"      : ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"],
-    "contact"    : "harshitrjakati@gmail.com"
-}
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=WHAT+I'M+UP+TO" />
-
-</div>
-
-- Building **interactive AI applications** powered by **LLMs**, **RAG**, and modern ML workflows
-- Exploring **LLM fine-tuning**, and **MLOps** for production-ready systems
-- Applying machine learning to healthcare, NLP, and real-world data
-- Open to **Data Science**, **ML Engineering**, and **AI Research** opportunities
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2500&color=6AD3F7&center=true&vCenter=true&width=600&lines=TECH+STACK" />
